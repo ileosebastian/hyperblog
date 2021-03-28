@@ -8,8 +8,4 @@ Esto es solo de la cabecera.
 
 Historia 1
 
-<<<<<<< HEAD
 Historia 2
-=======
-Experimento 1
->>>>>>> a33bb5a (agregado experimento 1)
